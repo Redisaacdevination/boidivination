@@ -1,0 +1,3 @@
+<items gfxroot="gfx/items/" version="1">
+	<passive cache = "tearrate damage" description="The rage of battle!" gfx="GreekAres.png" name="Ares"/>
+</items>

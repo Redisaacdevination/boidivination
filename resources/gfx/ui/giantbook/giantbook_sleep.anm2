@@ -1,0 +1,31 @@
+<AnimatedActor>
+	<Info CreatedBy="" CreatedOn="4/3/2017 7:30:00 PM" Version="3" Fps="107844072"/>
+	<Content>
+		<Spritesheets>
+			<Spritesheet Path="GiantBook_Rebirth_010_Sleep.png" Id="0"/>
+		</Spritesheets>
+		<Layers>
+			<Layer Name="text" Id="0" SpritesheetId="0"/>
+			<Layer Name="black" Id="1" SpritesheetId="0"/>
+		</Layers>
+		<Nulls/>
+		<Events>
+			<Event Name="SleepFillHP" Id="0"/>
+		</Events>
+	</Content>
+	<Animations DefaultAnimation="Idle">
+		<Animation Name="Idle" FrameNum="1" Loop="false">
+			<RootAnimation>
+				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="182" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
+			</RootAnimation>
+			<LayerAnimations>
+				<LayerAnimation LayerId="1" Visible="true"/>
+				<LayerAnimation LayerId="0" Visible="true"/>
+			</LayerAnimations>
+			<NullAnimations/>
+			<Triggers>
+				<Trigger EventId="0" AtFrame="73"/>
+			</Triggers>
+		</Animation>
+	</Animations>
+</AnimatedActor>

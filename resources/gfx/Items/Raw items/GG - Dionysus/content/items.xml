@@ -1,0 +1,3 @@
+<items gfxroot="gfx/items/" version="1">
+	<passive cache = "damage speed luck tearrate" description="The joys of wine...!" gfx="GreekDionysus.png" name="Dionysus"/>
+</items>

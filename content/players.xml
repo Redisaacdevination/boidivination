@@ -1,6 +1,9 @@
 <players bigportraitroot="gfx/ui/stage/" nameimageroot="gfx/ui/boss/" portraitroot="gfx/ui/boss/" root="gfx/characters/costumes/">
 	<player bigportrait="playerportraitbig_ruby.png" hp="6" name="ruby" nameimage="playerName_ruby.png" portrait="playerportrait_ruby.png" skin="character_ruby.png" skinColor="-1" />
-	<player bigportrait="playerportraitbig_saph.png" hp="6" name="saph" nameimage="PlayerName_saph.png" portrait="playerportrait_saph.png" skin="character_saph.png" skinColor="-1" />
+	<player bigportrait="playerportraitbig_saph.png" armor="6" name="saph" nameimage="PlayerName_saph.png" portrait="playerportrait_saph.png" skin="character_saph.png" skinColor="-1" />
 	<player bigportrait="playerportraitbig_anti.png" hp="4" name="anti" nameimage="playerName_anti.png" portrait="playerportrait_anti.png" skin="character_anti.png" skinColor="-1" />
-
-	</players>
+	<player bigportrait="playerportraitbig_seth.png" hp="6" name="seth" nameimage="playerName_seth.png" portrait="playerportrait_seth.png" skin="character_seth.png" skinColor="-1" />
+	<player bigportrait="playerportraitbig_alex.png" hp="4" name="alex" nameimage="playerName_alex.png" portrait="playerportrait_alex.png" skin="character_alex.png" items="479" trinket="88" bombs="1" coins="2" skinColor="-1" />
+	<player bigportrait="playerportraitbig_ramiel.png" armor="4" name="ramiel" nameimage="playerName_ramiel.png" portrait="playerportrait_ramiel.png" skin="character_ramiel.png" skinColor="-1" />
+	<player bigportrait="playerportraitbig_amy.png" black="6" name="amy" nameimage="playerName_amy.png" portrait="playerportrait_amy.png" skin="character_amy.png" skinColor="-1" />
+</players>

@@ -1,0 +1,3 @@
+<items gfxroot="gfx/items/" version="1">
+	<passive blackhearts = "2" cache = "tearflag damage" description="Fear the underworld!!" gfx="GreekHades.png" name="Hades"/>
+</items>

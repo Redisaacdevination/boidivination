@@ -1,0 +1,3 @@
+<items gfxroot="gfx/items/" version="1">
+	<passive description="The regeneration of nature" gfx="GreekDemeter.png" hearts="2" maxhearts="2" name="Demeter"/>
+</items>

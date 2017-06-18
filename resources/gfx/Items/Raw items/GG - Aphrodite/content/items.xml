@@ -1,0 +1,3 @@
+<items gfxroot="gfx/items/" version="1">
+	<passive hearts = "2" cache = "tearflag luck" description="The binding of Love!" gfx="GreekAphro.png" name="Aphrodite"/>
+</items>
